@@ -1,0 +1,5 @@
+[deps]
+Hyperscript = "47d2ed2b-36de-50cf-bf87-49c2cf4b8b91"
+JSServe = "824d6782-a2ef-11e9-3a09-e5662e0c26f9"
+Observables = "510215fc-4207-5dde-b226-833fc4488ee2"
+Revise = "295af30f-e4ad-537b-8983-00126c2a3abe"
